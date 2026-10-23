@@ -497,3 +497,5 @@ Besides carrying forward the rules above, an app design must define:
 17. Whether ad hoc reads need a minimum group size, to stop totals over very small groups revealing individual values.
 
 This is a minimum, not an outline. The app design may cover more, in any structure that suits the domain.
+
+© 2026 Anoop P B · CC BY 4.0 · https://github.com/anoop-pb/agentype
